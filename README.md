@@ -233,7 +233,7 @@ int main()
     strcpy(key, "Monopoly");
     printf("Key text: %s\n", key);
 
-    strcpy(str, "preethi");
+    strcpy(str, "priyangha");
     printf("Plain text: %s\n", str);
 
     encryptByPlayfairCipher(str, key);
