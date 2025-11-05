@@ -248,7 +248,8 @@ int main()
 ```
 
 ## OUTPUT
-<img width="314" height="150" alt="image" src="https://github.com/user-attachments/assets/ce11aff5-a92d-4086-bcc7-32d47b4f0042" />
+![WhatsApp Image 2025-11-05 at 11 07 24_f278ad4a](https://github.com/user-attachments/assets/f315a3cd-36f3-43f9-91da-f1cef6d029e2)
+
 
 ## RESULT
 The program implementing the PlayFair cipher for encryption and decryption has been successfully executed, and the results have been verified
